@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>prueba sin título</title>
+<title>prueba2 sin título</title>
 </head>
 
 <body>
